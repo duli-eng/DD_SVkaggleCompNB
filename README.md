@@ -1,6 +1,6 @@
 # Top Features Selected by XGBoost to Predict ADP to Synapse Conversion
 
-Herein is the final Machine Learning model and Interpretation Techniques designed for the Rice University ELEC-578 [Kaggle Neuron Synapse Prediction](https://www.kaggle.com/t/c0f648f10def4a72a8e6358f12751c4a) competition in partnership with the [MICrONS Consortium](https://www.microns-explorer.org/cortical-mm3).
+Herein are the Interpretation Techniques and final Machine Learning model designed for the Rice University ELEC-578 [Kaggle Neuron Synapse Prediction](https://www.kaggle.com/t/c0f648f10def4a72a8e6358f12751c4a) competition in partnership with the [MICrONS Consortium](https://www.microns-explorer.org/cortical-mm3).
 
 ## Getting Started
 
