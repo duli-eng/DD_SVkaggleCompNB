@@ -27,6 +27,6 @@ details
 
 ## Acknowledgments
 
-  - We are greatful for the generousity of Neuroscientists and other members of the [MICrONS Consortium](https://www.microns-explorer.org/cortical-mm3). For this opportunity wouldn't have been available whithout their arduous data reconstruction efforts.
-  - We appreciate [Geneevera Allen](http://genevera.rice.edu) and the Teaching Assistants of ELEC-578 [Kaggle Neuron Synapse Prediction] for fostering the collaboration to formulate a class project and competition out of the opportunity; which broadened the repertoire of the students and provided the Neuroscientists with valuable inferences and information.
+  - We express our gratitude for the generousity of Neuroscientists and other members of the [MICrONS Consortium](https://www.microns-explorer.org/cortical-mm3). For this opportunity wouldn't have been available whithout their arduous data reconstruction efforts.
+  - We also extend this gratitude to [Geneevera Allen](http://genevera.rice.edu) and the Teaching Assistants of ELEC-578 [Kaggle Neuron Synapse Prediction] for fostering the collaboration to formulate a class project and competition out of the opportunity; which broadened the repertoire of the students and provided the Neuroscientists with valuable inferences and information.
 
