@@ -13,7 +13,7 @@ for notes on deploying the project on a live system.
 Requirements for the software. 
 - [Python version 3.11.4](https://www.python.org/downloads/release/python-3114/) was used for [Interpretability Methods ](ELEC_578_InterpMethods.ipynb) and the [Model](ELEC-578_CompNotebook_SUB_0.75751.ipynb).
 - See [Visual Studio Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks) for instructions on installing a [Jupyter](https://jupyter-notebook.readthedocs.io/en/latest/) package in a Python environment.
-- other libraried used can be installed via [PIP](https://pypi.org/project/pip/) package installer.
+- Libraried used can be installed via [PIP](https://pypi.org/project/pip/) package installer.
 
 ## Authors
 
