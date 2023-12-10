@@ -27,6 +27,6 @@ details
 
 ## Acknowledgments
 
-  - We express our gratitude for the generousity of Neuroscientists and members at the [Andreas Tolias Lab](https://toliaslab.org) of the [Baylor College of Medicine](https://www.bcm.edu/#hdr-search) and participants of the [MICrONS Consortium](https://www.microns-explorer.org/cortical-mm3). For this opportunity wouldn't have been available whithout their arduous data reconstruction efforts.
-  - We also extend this gratitude to [Genevera Allen](http://genevera.rice.edu) and the Teaching Assistants of ELEC-578 for fostering the collaboration to formulate a class project and competition out of the opportunity; which broadened the repertoire of the students and provided the Neuroscientists with invaluable inferences and information.
+  - We express our gratitude for the generousity of Neuroscientists and members at the [Andreas Tolias Lab](https://toliaslab.org) of the [Baylor College of Medicine](https://www.bcm.edu/#hdr-search) and participants of the [MICrONS Consortium](https://www.microns-explorer.org/cortical-mm3). For this opportunity would not have been available whithout their arduous data reconstruction efforts.
+  - We also extend this gratitude to [Genevera Allen](http://genevera.rice.edu) and the Teaching Assistants of ELEC-578 for fostering the collaboration to formulate a class project and competition out of the opportunity; which enriched the repertoire of the students and provided the Neuroscientists with invaluable inferences and information.
 
