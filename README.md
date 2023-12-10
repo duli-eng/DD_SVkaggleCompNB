@@ -1,5 +1,32 @@
 # Top Features Selected by XGBoost to Predict ADP to Synapse Conversion
-## Herein are Machine Learning model(s) and interpretation techniques designed for the Rice University ELEC-578 [Kaggle Neuron Synapse Prediction](https://www.kaggle.com/t/c0f648f10def4a72a8e6358f12751c4a) competition in partnership with the [MICrONS Consortium](https://www.microns-explorer.org/cortical-mm3).
-### By: Dominique Dulièpre & Sara Vanaki
+
+Herein is the final Machine Learning model and Interpretation Techniques designed for the Rice University ELEC-578 [Kaggle Neuron Synapse Prediction](https://www.kaggle.com/t/c0f648f10def4a72a8e6358f12751c4a) competition in partnership with the [MICrONS Consortium](https://www.microns-explorer.org/cortical-mm3).
+
+## Getting Started
+
+These instructions will give you a copy of the project up and running on
+your local machine for development and testing purposes. See deployment
+for notes on deploying the project on a live system.
+
+### Prerequisites
+
+Requirements for the software. 
+- [Python version 3.11.4](https://www.python.org/downloads/release/python-3114/) was used for [Interpretability Methods ](ELEC_578_InterpMethods.ipynb) and the [Model](ELEC-578_CompNotebook_SUB_0.75751.ipynb).
+- See [Visual Studio Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks) for instructions on installing a [Jupyter](https://jupyter-notebook.readthedocs.io/en/latest/) package in a Python environment.
+- other libraried used can be installed via [PIP](https://pypi.org/project/pip/) package installer.
+
+## Authors
+
+**Dominique Dulièpre**, **Sara Vanaki**
 ### Department of Electrical and Computer Engineering, Rice University
-#### Abstract—There are three main parts to a machine learning algorithm: preprocessing, feature engineering, and the model itself. Within supervised learning, one ensemble model is gra- dient boosting which utilizes weak learners that are trained on the remaining errors, or residuals. Excelling in solving binary classification problems across diverse fields, the intricacies of neuroscience become a compelling focal point. Specifically, we are interested in building a predictive model based on data consisting of neuronal responses collected from mice that were presented with different visual stimuli. As part of the Introduction to Machine Learning course offered at Rice University, students enter a Kaggle competition where they apply concepts they have learned in class to real world data. This paper will focus on the machine learning (ML) model and key neuronal factors that influence when an axonal-dendritic proximity (ADP) will convert to a synapse. Currently, neuroscientists haven’t pinpointed the single most important feature that elicits a connection between two neurons nor is there a universal ML model being used to predict these connections. We propose a novel approach using XGBoost as well as recognizing the two main neuronal features used in predicting whether or not a connection takes place. Our methodology starts with the transformation of categorical values in the data to numerical values. Subsequently, we uniformly scale the data to enable precise comparisons across varying ranges while also addressing missing data through imputation. Then we engineered several new features and applied these to our ML model. We will show the advantages of our model as the Kaggle public leaderboard showcases an accuracy score of .75751 and a FILL IN on the private leaderboard. We demonstrated that the two most important features in determining when an ADP will convert to a synapse are, (1) if the ADP is located on the axon of the post-synaptic neuron and (2) the distance from the axonal ADP coordinate and the dendritic ADP coordinate. Key Terms— Machine learning (ML), Axonal-dendritic prox- imity (ADP), Extreme Gradient Boosting Ensemble Classifier (XGBoost).
+
+## License
+
+This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.md](LICENSE.md) file for
+details
+
+## Acknowledgments
+
+  - We are greatful for the generousity of Neuroscientists and other members of the [MICrONS Consortium](https://www.microns-explorer.org/cortical-mm3). For this opportunity wouldn't have been available whithout their arduous data reconstruction efforts.
+  - We appreciate [Geneevera Allen](http://genevera.rice.edu) and the Teaching Assistants of ELEC-578 [Kaggle Neuron Synapse Prediction] for fostering the collaboration to formulate a class project and competition out of the opportunity; which broadened the repertoire of the students and provided the Neuroscientists with valuable inferences and information.
+
