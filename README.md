@@ -2,6 +2,8 @@
 
 Herein are the Interpretation Techniques and final Machine Learning model designed for the Rice University ELEC-578 [Kaggle Neuron Synapse Prediction](https://www.kaggle.com/t/c0f648f10def4a72a8e6358f12751c4a) competition in partnership with the [MICrONS Consortium](https://www.microns-explorer.org/cortical-mm3).
 
+<img width="404" alt="Screenshot 2023-12-09 at 10 07 45 PM" src="https://github.com/duli-eng/DD_SVkaggleCompNB/assets/76967864/97e1093c-be4d-40f3-a741-e3b6855aad78">
+
 ## Getting Started
 
 These instructions will give you a copy of the project up and running on
